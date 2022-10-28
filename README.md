@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+TASK MANAGEMENT DAPP
+
+[Screenshot (44)](https://user-images.githubusercontent.com/86045544/198538125-9201e92d-22b8-47b6-b934-436adf737119.png)
+
+
 ## Getting Started
 
 First, run the development server:
@@ -7,7 +12,8 @@ First, run the development server:
 ```bash
 npm run dev
 # or
-yarn dev
+yarn dev!
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
