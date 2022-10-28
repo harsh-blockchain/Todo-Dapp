@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 TASK MANAGEMENT DAPP
 
-[Screenshot (44)](https://user-images.githubusercontent.com/86045544/198538125-9201e92d-22b8-47b6-b934-436adf737119.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/86045544/198538125-9201e92d-22b8-47b6-b934-436adf737119.png)
 
 
 ## Getting Started
